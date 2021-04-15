@@ -1,0 +1,12 @@
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\bin\Debug\net5.0\Entidad.deps.json
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\bin\Debug\net5.0\Entidad.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\bin\Debug\net5.0\Entidad.pdb
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\obj\Debug\net5.0\Entidad.csprojAssemblyReference.cache
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\obj\Debug\net5.0\Entidad.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Entidad\obj\Debug\net5.0\Entidad.pdb

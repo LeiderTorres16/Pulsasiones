@@ -1,0 +1,15 @@
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\bin\Debug\net5.0\Datos.deps.json
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\bin\Debug\net5.0\Datos.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\bin\Debug\net5.0\ref\Datos.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\bin\Debug\net5.0\Datos.pdb
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\bin\Debug\net5.0\Entidad.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\bin\Debug\net5.0\Entidad.pdb
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\obj\Debug\net5.0\Datos.csprojAssemblyReference.cache
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\obj\Debug\net5.0\Datos.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\obj\Debug\net5.0\ref\Datos.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Datos\obj\Debug\net5.0\Datos.pdb

@@ -1,0 +1,17 @@
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\bin\Debug\net5.0\Logica.deps.json
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\bin\Debug\net5.0\Logica.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\bin\Debug\net5.0\ref\Logica.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\bin\Debug\net5.0\Logica.pdb
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\bin\Debug\net5.0\Datos.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\bin\Debug\net5.0\Entidad.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\bin\Debug\net5.0\Entidad.pdb
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\bin\Debug\net5.0\Datos.pdb
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\obj\Debug\net5.0\Logica.csprojAssemblyReference.cache
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\obj\Debug\net5.0\Logica.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\obj\Debug\net5.0\ref\Logica.dll
+D:\Desktop\Proyectos Visual Code\Pulsasiones\Logica\obj\Debug\net5.0\Logica.pdb

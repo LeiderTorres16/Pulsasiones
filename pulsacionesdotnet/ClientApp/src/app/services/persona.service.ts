@@ -16,8 +16,6 @@ export class PersonaService {
 
   }
   get():Observable<Persona[]>{
-    /*let personas:Persona[]=[];
-    personas=JSON.parse(localStorage.getItem('datos'));*/
     return this.http.get<Persona[]>(this.baseURL+'api\persona').pipe(
       tap(),
       catchError(error=>{
@@ -28,17 +26,7 @@ export class PersonaService {
     
   }
 
-  post(persona:Persona):Observable<Persona>{
-    /*let personas:Persona[]=[];
-    let storageDatos=localStorage.getItem('datos');
-    if(storageDatos!=null){
-      personas=JSON.parse(storageDatos);
-    }
-    personas.push(persona);
-    localStorage.setItem('datos',JSON.stringify(personas));*/
-
-  
-    
+  post(persona:Persona):Observable<Persona>{    
     return this.http.post<Persona>(this.baseURL+'api\persona',persona).pipe(
       tap(_=>console.log("Los datos se guardaron Stisfactoriamente")),
       catchError(error=>{
@@ -46,7 +34,6 @@ export class PersonaService {
         return of(persona)
       })
     )
-
   }
 
   getHombres():Observable<Persona[]>{

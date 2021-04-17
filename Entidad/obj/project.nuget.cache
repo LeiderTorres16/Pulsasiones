@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "t5ofoofd18yXzJE19UiSPWlJfrtb8EWcDlnEW7Zr0uD2rHnS9L1qXUI+6sERmnQWbK/3KugnmZYW1aGqMyhTIQ==",
+  "dgSpecHash": "MykOHl2jLrjg/7W/2DHwfA2fI3QbXaLkfin6QEZL09wb8grSc5RulNz5TuCtnc2KLy2CWff5GQF3iYAI3VwY+Q==",
   "success": true,
   "projectFilePath": "D:\\Desktop\\Proyectos Visual Code\\Pulsasiones\\Entidad\\Entidad.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

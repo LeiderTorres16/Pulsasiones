@@ -16,7 +16,7 @@ export class PersonaService {
 
   }
   get():Observable<Persona[]>{
-    return this.http.get<Persona[]>(this.baseURL+'api\persona').pipe(
+    return this.http.get<Persona[]>(this.baseURL+'api/persona').pipe(
       tap(),
       catchError(error=>{
         console.log('se ha presentado un error al registrar los datos')
@@ -27,7 +27,7 @@ export class PersonaService {
   }
 
   post(persona:Persona):Observable<Persona>{    
-    return this.http.post<Persona>(this.baseURL+'api\persona',persona).pipe(
+    return this.http.post<Persona>(this.baseURL+'api/persona',persona).pipe(
       tap(_=>console.log("Los datos se guardaron Stisfactoriamente")),
       catchError(error=>{
         console.log('se ha presentado un error al registrar los datos')

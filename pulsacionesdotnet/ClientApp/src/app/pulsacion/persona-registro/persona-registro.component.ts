@@ -10,8 +10,8 @@ import { Persona } from '../models/persona';
 export class PersonaRegistroComponent implements OnInit {
   persona: Persona;
   mensaje: string;
-  durations = [{ title: "Femenino", value: "femenino" },
-  { title: "Masculino", value: "masculino" }];
+  durations = [{ title: "Femenino", value: "F" },
+  { title: "Masculino", value: "M" }];
   constructor(private personaService: PersonaService) { }
 
   ngOnInit(): void {
@@ -19,7 +19,7 @@ export class PersonaRegistroComponent implements OnInit {
   }
 
   calcularPulsacion() {
-    if (this.persona.sexo == "m") {
+    if (this.persona.sexo == "M") {
       var pulsaciones = (210 - this.persona.edad) / 10;
       this.persona.pulsacion = pulsaciones;
     } else {
@@ -36,5 +36,6 @@ export class PersonaRegistroComponent implements OnInit {
         this.mensaje = "Se guardaron los datos corretamente de: " + p.nombre;
       }
     });
+    
   }
 }

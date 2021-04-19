@@ -17,13 +17,13 @@ export class PersonaConsultaComponent implements OnInit {
   constructor(private personasService: PersonaService) { }
 
   ngOnInit(): void {
-    this.getFiltroHombres();
+    this.get();
   }
   
   calcularNumeroHombres(){
     this.cantidadHombres=0;
     for (const persona of this.personas) {
-      if (persona.sexo == "masculino") {
+      if (persona.sexo == "M") {
         this.cantidadHombres= this.cantidadHombres + 1;
       }
     }
@@ -33,7 +33,7 @@ export class PersonaConsultaComponent implements OnInit {
   calcularNumeroMujeres(){
     this.cantidadMujeres=0;
     for (const persona of this.personas) {
-      if (persona.sexo == "femenino") {
+      if (persona.sexo == "F") {
         this.cantidadMujeres= this.cantidadMujeres + 1;
       }
     }
